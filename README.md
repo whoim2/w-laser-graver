@@ -9,4 +9,4 @@ https://youtu.be/4v3OAOTi5sI
 
 ![3d printed z axis](https://github.com/whoim2/w-laser-graver/raw/main/Screenshot_2.png)
 
-video: 
+video: https://youtu.be/LiwDSFK-sX8
