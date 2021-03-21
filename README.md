@@ -13,4 +13,3 @@ https://youtu.be/LiwDSFK-sX8
 
 ![3d printed z axis](https://github.com/whoim2/w-laser-graver/raw/main/Screenshot_2.png)
 
-video: https://youtu.be/LiwDSFK-sX8
