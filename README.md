@@ -13,3 +13,18 @@ https://youtu.be/LiwDSFK-sX8
 
 ![3d printed z axis](https://github.com/whoim2/w-laser-graver/raw/main/Screenshot_2.png)
 
+Need:
+
+- gt2 6mm belt
+
+- Y: 2х 20t 8d pulleys, X: 16t 5d pulley
+
+- 5/8mm adapter sleeve for Y mot/tube
+
+- 608zz flange bearing
+
+- 8mm/6mm aluminum tube between carriages, y-axis
+
+- nema 17 motors, 2x42mm 1x23mm
+
+- any grbl board (i use stm32 custom board with bluepill, https://github.com/whoim2/stm32-bluepill-grbl-pcb/)
