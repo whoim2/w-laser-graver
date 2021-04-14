@@ -27,6 +27,6 @@ Need:
 
 - nema 17 motors, 2x42mm 1x23mm
 
-- 2x kfl08 bearings,  T8 screw, D122mm gt2 belt, 16t 5d and 36t 8d pulleys - for Z
+- 2x kfl08 bearings,  T8 2p 4l screw with anti-backlash nut, D122mm gt2 belt, 16t 5d and 36t 8d pulleys - for Z
 
 - any grbl board (i use stm32 custom board with bluepill, https://github.com/whoim2/stm32-bluepill-grbl-pcb/)
