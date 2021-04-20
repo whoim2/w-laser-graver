@@ -1,1 +1,0 @@
-2.5inch Three Jaw Chuck by mdkendall on Thingiverse: https://www.thingiverse.com/thing:2670620
